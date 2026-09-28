@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
