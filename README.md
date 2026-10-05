@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -43,4 +44,12 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
