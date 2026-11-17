@@ -13,11 +13,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Khushidubey02/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
